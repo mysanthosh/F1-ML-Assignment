@@ -20,6 +20,8 @@ This project applies supervised machine learning to Formula 1 lap-level race dat
 |  Key Features  | Lap number, tyre compound, stint length, lap time, track position, gap to leader, race phase |
 
 
+## Repository Structure
+
 ```
 f1-pitstop-ml-assignment/
 │
