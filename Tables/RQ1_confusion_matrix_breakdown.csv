@@ -1,0 +1,4 @@
+Model,TN,FP,FN,TP
+Logistic Regression,16329,400,3021,525
+Decision Tree,16200,529,2940,606
+k-NN,16109,620,2956,590

@@ -1,0 +1,5 @@
+Preprocessing Strategy,Accuracy,F1-score,AUC,Delta_Accuracy,Delta_F1-score,Delta_AUC
+Raw Data,0.8311,0.2674,0.7475,0.0,0.0,0.0
+Imputation Only,0.8324,0.2834,0.7507,0.0013,0.016,0.0032
+Scaling + Encoding,0.8325,0.2716,0.7532,0.0014,0.0042,0.0057
+Full Pipeline,0.8333,0.2747,0.758,0.0022,0.0073,0.0105

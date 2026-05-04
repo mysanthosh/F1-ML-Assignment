@@ -1,0 +1,8 @@
+Criteria,XGBoost_Rating,Domain_Verdict
+Predictive Performance,"High (AUC=0.763, F1=0.241)",Suitable as decision-support alert system
+Class Imbalance Handling,Moderate (Precision=0.578),High precision avoids false pit alarms
+Probability Calibration,Good (monotonic calibration),Probabilities useful for risk-weighted decisions
+Interpretability,Moderate (SHAP needed),Feature importance supports team explanation
+Computational Efficiency,Medium (~2-5 min on 100K rows),Fits race-weekend analysis pipeline
+Deployment Suitability,Good (sklearn API),REST API or edge deployment feasible
+Cross-Validation Stability,High (±0.007 F1 across folds),Consistent across race seasons in dataset
