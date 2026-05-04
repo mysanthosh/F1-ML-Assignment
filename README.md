@@ -20,6 +20,7 @@ This project applies supervised machine learning to Formula 1 lap-level race dat
 |  Key Features  | Lap number, tyre compound, stint length, lap time, track position, gap to leader, race phase |
 
 
+```
 f1-pitstop-ml-assignment/
 │
 ├── RQ1_baseline_models.ipynb           # Logistic Regression, Decision Tree, Naive Bayes baselines
@@ -35,6 +36,8 @@ f1-pitstop-ml-assignment/
 │
 ├── requirements.txt                    # Required Python libraries
 └── README.md                           # This file
+```
+
 
 ## Research Questions
 
